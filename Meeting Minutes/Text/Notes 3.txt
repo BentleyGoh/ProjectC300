@@ -1,0 +1,30 @@
+cloud storage
+- grovestreams
+
+ardurino - front-end sensor
+pi - process result in the cloud
+whhich is most suitable
+ardurino may not be needed
+
+cloud need to look for capabilities
+cloud to store reading
+how does the cloud storage receive data?
+how does the cloud storage organise the data? (date, time)
+
+find out how fast the fire sensor will record down the reading(s)
+15ppm will go into the cloud storage
+how many data stored in one minute
+string of digits
+what kind of level of reading is dangerous
+
+fire - carbon monoxide
+does heat need to be measured?
+
+next steps:
+java code to display readings in form of charts
+pre-install libraries
+what kind of api are needed
+
+bryant - fire and gas
+bentley - cloud
+joseph - api

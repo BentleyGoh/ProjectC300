@@ -1,0 +1,24 @@
+10th June
+- collect Raspberry Pi
+
+Cloud Platforms:
+Ubidots
+https://ubidots.com/
+
+Thinger.io
+https://thinger.io/
+
+Thingspeak
+https://thingspeak.com/
+
+narrow down the programming language
+look for review and comparison
+free account is needed
+
+Web App:
+provide a sturcture of a working web app
+working skeleton code for Java
+run it and show the page (log in, log out)
+slowly add what we need after that
+avoid commericial codes (complex)
+

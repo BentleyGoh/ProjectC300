@@ -1,0 +1,22 @@
+skeleton code
+- build payload
+- python code to sent to ubidots
+
+look at sample codes
+- put into slides and explain
+- look for more sample files (pi sent to ubidots)
+
+test the Python script 
+VARIABLE_LABEL_1 = "temperature"  # Put your first variable label here
+VARIABLE_LABEL_2 = "humidity"  # Put your second variable label here
+VARIABLE_LABEL_3 = "position"  # Put your second variable label here
+- rename the variables
+
+ while status >= 400 and attempts <= 5:
+        req = requests.post(url=url, headers=headers, json=payload)
+        status = req.status_code
+        attempts += 1
+        time.sleep(1)
+
+- rename url to industial
+- payload is in value

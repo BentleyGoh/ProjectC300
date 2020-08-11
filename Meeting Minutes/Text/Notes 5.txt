@@ -1,0 +1,13 @@
+node red
+-programming platform
+
+raspberry pi + gas sensor
+on youtube
+watch the videos
+
+thingspeak can be used (python) as one example
+look for the author with sample codes
+need to be familiar with putty and linux
+
+gather all the information and save
+research and document the relevant information

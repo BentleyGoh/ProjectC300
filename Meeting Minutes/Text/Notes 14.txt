@@ -1,0 +1,7 @@
+Flame Sensor Module SEN-02641 
+MQ-2 Gas Sensor SEN-0363
+
+Google those sensors and check their technical specs
+
+Check typical value for gas sensor
+

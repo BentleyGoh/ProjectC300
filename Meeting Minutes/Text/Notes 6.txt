@@ -1,0 +1,22 @@
+https://help.ubidots.com/en/articles/570008-ubidots-mqtt-broker
+MQTT
+Data is sent from the cloud to the API
+
+(retrieve data) the lines are to be in the .NET code
+
+ASP.NET - Hello World in 10 minutes
+
+Sign up for Ubidots account
+docs
+
+Connect Raspberry Pi with ubidots (need the java version)
+
+Fire and Gas FYP Overview v2 has been uploaded
+
+10th June - Mid-Semester Assessment
+put in slides
+what codes have been managed to find out
+
+cloud - understand how to do the programming of ubidots
+      - identify what kind of codes to have (put data send data)
+      - pass codes to Bryan

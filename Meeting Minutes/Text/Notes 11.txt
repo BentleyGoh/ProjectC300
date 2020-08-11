@@ -1,0 +1,24 @@
+build_payload: package everything and send to ubidots
+position: where the house is located
+
+post_request: send the variables over
+
+ubi_test.py
+ubi-test-get.py
+
+Find the URL, Device Label and Token
+
+requests API (library)
+must check what the library does
+
+Table plotting:
+import PrettyTable (Python library ASCII)
+
+Graph plotting:
+import matplotlib (API library)
+
+need to find out how to burn the code into Raspberry Pi
+
+there will be issues along the way (practical implementation)
+
+put the codes in GitHub

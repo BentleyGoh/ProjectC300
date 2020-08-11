@@ -1,0 +1,10 @@
+- build fire and gas sensor for residential properties
+- recording readings of fire and gas
+- what kind of readings for fire will be considered normal
+- gas has the different reading (find the proper threshold)
+- raspberry pi 4 and sensor (integrate them)
+- find the programming language to use (java, python)
+- start simple (able to connect them), and improve them
+- collect readings, have to be stored into the cloud (depending on programming language)
+- find the cloud suitable
+- do the research

@@ -1,0 +1,6 @@
+Agenda:
+1. Review Required Raspberry Pi Functionality
+2. Review Required Cloud Storage Functionality
+3. Identify Programming Language for FYP
+4. Identify Typical Fire Sensor Readings
+5. Identify Typical Gas Sensor Readings

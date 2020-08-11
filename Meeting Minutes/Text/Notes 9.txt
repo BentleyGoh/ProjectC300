@@ -1,0 +1,21 @@
+breadboard collected
+- 4 leg push into breadboard
+- have to be careful when connecting
+- play around with it and see what happens
+
+three parameters:
+- value
+- timestamps (epach converter)
+- context
+
+1 dot = value, timestamp, context
+
+Use HTTP for programming
+
+HTTP:
+- Host
+- Path
+- Headers
+- Payload
+
+understand the http
