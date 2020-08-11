@@ -1,0 +1,5 @@
+- consider whether humidity should exist
+- modify the codes
+- have the codes working
+- be resourceful and gather more
+- try not to have supervior provide too much
